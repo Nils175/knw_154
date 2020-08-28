@@ -2,7 +2,7 @@ FROM openjdk:13-alpine3.10
 
 MAINTAINER nils.gloor@gibmit.ch
 
-EXPOSE 5000
+EXPOSE 6000
 
 WORKDIR /usr/local/bin
 
