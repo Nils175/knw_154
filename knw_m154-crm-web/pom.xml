@@ -90,7 +90,7 @@
 				<version>0.27.2</version>
 				<configuration>
 					<verbose>true</verbose>
-					<!--authConfig> <username>nilsgloor</username> </authConfig -->
+					<!--authConfig> <username>nilsgloorr</username> </authConfig -->
 					<images>
 						<image>
 							<name>nilsgloor/knw_m154</name>
